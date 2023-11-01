@@ -21,12 +21,11 @@
 
 ## 💾 Installation:
 
-### 1. Open the Rar Folder:
+### 1. Open the Folder:
 
 
 ### 2. Unzip the file:
 
-You can use Winrar or 7zip
 
 #### Prerequisites:
 
