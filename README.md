@@ -1,7 +1,7 @@
 ---
 <h3 align="center">HOOKAH SERVER CLONER</h3>
 <div align="center">
-<img src="https://i.imgur.com/K6e9MUz.png" />
+<img src="https://imgur.com/ru6EjbW" />
 </div>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCaULEkiS2qrMkoML_tRPrYw?sub_confirmation=1">
