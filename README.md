@@ -1,7 +1,7 @@
 ---
 <h3 align="center">HOOKAH SERVER CLONER</h3>
 <div align="center">
-<img src="https://i.ib.co/sgXyr3T/68747470733a2f2f692e696d6775722e636f6d2f4b3665394d557a2e706e67.png" />
+<img src="https://i.ibb.co/56VVJ7q/hqdefault-3798475062.jpg" />
 </div>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCaULEkiS2qrMkoML_tRPrYw?sub_confirmation=1">
@@ -21,7 +21,7 @@
 
 ## 💾 Installation:
 
-### 1. Open the Folder
+## 1. Open the Folder
 
 
 ### 2. Unzip the file
@@ -32,12 +32,12 @@
 
 ### 5. Run Hookah Start
 
+### Finish now select a server you like to clone and copy its ID Right-click on the server icon and Copy ID.
 
 #### Prerequisites:
 
 - To Unzip the File you must have Winrar or 7zip
 - Obtain your Discord token. If you're unsure how, here's a [tutorial](https://www.youtube.com/watch?v=3qzpmTIQ-Gs).
-- Select a server you like to clone and copy its ID Right-click on the server icon and Copy ID.
 
 
 ## 🙏 Credits:
