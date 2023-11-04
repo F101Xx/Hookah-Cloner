@@ -17,7 +17,7 @@
 ## Video Tutorial:
 
 <table><tr><td><a href="https://youtu.be/bGu54aX8jwU"><img width="300px" src="https://i.imgur.com/oJlZffu.png"></a></td>
-<td><a href="https://youtu.be/bGu54aX8jwU">[2023] How to Clone Any Discord Server? (UPDATED)</a><br/>March 5, 2023</td></tr></table>
+<td><a href="https://youtu.be/biOP0_bV1ek">[2023] How to Clone Any Discord Server? (UPDATED)</a><br/>March 5, 2023</td></tr></table>
 
 ## 💾 Installation:
 
